@@ -38,7 +38,7 @@ My research interests lie at the intersection of **optics and machine learning**
 
 I graduated from Tongji University in **July 2025** with a Bachelor's degree in **Optoelectronic Information Science and Engineering**, and previously conducted research as a visiting student in the **Yuchuan Qiao group** at Fudan University.  
 
-**<span style="color:red">I am currently looking for PhD positions starting in Fall 2026.</span>**
+**<span style="color:red">I am currently looking for PhD positions starting in Spring/Fall 2026.</span>**
 
 ---
 ## News
