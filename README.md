@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: about
 title: About
 permalink: /
@@ -26,7 +26,7 @@ latest_posts:
   enabled: true
   scrollable: true
   limit: 3
----
+--- -->
 
 ## Hi, I’m Xueqing Gao
 
