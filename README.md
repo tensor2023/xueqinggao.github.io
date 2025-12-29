@@ -28,10 +28,10 @@ latest_posts:
   limit: 3
 --- -->
 
-## Hi, I’m Xueqing Gao
+## Hi, I'm Xueqing Gao
 
 My personal homepage has moved to [tensor2023.github.io](https://tensor2023.github.io).
 
 ---
 
-_Last updated: Dem. 30, 2025_
+_Last updated: Dec. 30, 2025_
